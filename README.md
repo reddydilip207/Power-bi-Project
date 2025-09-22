@@ -26,5 +26,5 @@ This project showcases an interactive **Power BI dashboard** for analyzing mobil
 - **Excel** – Data source for sales records  
 
 ##  Files
-- Dashboard screenshots (`.png`)  
-- Power BI file (`.pbix`)  
+https://github.com/reddydilip207/Power-bi-Project/blob/main/Mobile%20sales%20Report.pbix
+
